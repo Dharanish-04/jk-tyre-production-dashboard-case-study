@@ -74,7 +74,7 @@ my role and technical experience during the internship.
 
 ---
 
-## 📄 Internship Details
+##  Internship Details
 - Role: Software Development Intern
 - Organization: JK Tyre & Industries Ltd
 - Duration: September 2025 – November 2025
