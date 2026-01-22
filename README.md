@@ -1,4 +1,4 @@
-# Enterprise Production Monitoring Dashboard (NDA Protected)
+# Enterprise Production Monitoring Dashboard 
 
 ##  Overview
 This repository documents my contribution to a real-world enterprise consulting project
